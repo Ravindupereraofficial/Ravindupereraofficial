@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **java,mysql,html,css,java script,python**
 
-- 📫 Currently Studying At **Institute Of Computer Engineering Technology**
+- 👨‍💻 Currently Studying At **Institute Of Computer Engineering Technology**
 
 - 📫 How to reach me **ravindurandika2004@gmail.com**
 
