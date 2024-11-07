@@ -28,10 +28,11 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://open.spotify.com/user/31bw5q34q7dkcinlcu66hmc62kba?si=36a9be4b9e43480e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31bw5q34q7dkcinlcu66hmc62kba?si=36a9be4b9e43480e" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31bw5q34q7dkcinlcu66hmc62kba?si=fbac51e2d24845b1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=u947c8dgr8mdyou43kx4tmp2s&count=1" alt="Spotify recently played"  />
   </a>
 </div>
+
 
 <h4 align="center"># 📊 GitHub Stats:</h4>
 
