@@ -99,6 +99,31 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindupereraofficial&theme=transparent&hide_border=false"></p><br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindupereraofficial&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
+<hr>
+<h3 align="center">How to reach me - <a href="mailto:ravindurandika2004@gmail.com">ravindurandika2004@gmail.com</a></h3>
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ramesh-edirisinghe-2b070225b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/RameshEdi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+   <a href="https://stackoverflow.com/users/23367202/ramesh-edirisinghe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1193615014171508866" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/ranganath_02/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://web.facebook.com/ramesh.ranganath.79/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
+</br>
 
 
 
