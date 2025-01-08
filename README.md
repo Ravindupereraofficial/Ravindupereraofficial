@@ -14,7 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://x.com/ScriptedRav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahan04che" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/ravindu-perera-116a73333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahan-chamara-97a53929a" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/ravindu-perera-116a73333](https://www.linkedin.com/in/ravindu-perera-/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27322285" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100075901452270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahansc567" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sahanchamara456" height="30" width="40" /></a>
@@ -104,7 +104,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ramesh-edirisinghe-2b070225b/" target="_blank">
+  <a href="https://www.linkedin.com/in/ravindu-perera-/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/RameshEdi" target="_blank">
