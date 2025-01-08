@@ -116,10 +116,10 @@
   <a href="https://discordapp.com/users/1193615014171508866" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/ranganath_02/" target="_blank">
+  <a href="https://www.instagram.com/ravindurandika_official/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://web.facebook.com/ramesh.ranganath.79/" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100075901452270" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
