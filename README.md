@@ -113,7 +113,7 @@
    <a href="https://stackoverflow.com/users/29103616/ravindu-perera" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
-  <a href="https://discordapp.com/users/1193615014171508866" target="_blank">
+  <a href="https://discord.com/channels/1326465926434000926/1326465926434000928" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/ravindurandika_official/" target="_blank">
