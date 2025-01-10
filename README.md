@@ -11,15 +11,7 @@
 
 - 📫 How to reach me **ravindurandika2004@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://x.com/ScriptedRav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahan04che" height="30" width="40" /></a>
-<a href="[www.linkedin.com/in/ravindu-perera-116a73333](https://www.linkedin.com/in/ravindu-perera-/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27322285" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100075901452270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahansc567" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sahanchamara456" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sahan456" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
   <br>
