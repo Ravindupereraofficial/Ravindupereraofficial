@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently Studying At **Institute Of Computer Engineering Technology**
 
-- 📫 How to reach me **ravindurandika2004@gmail.com**
+- 📫 How to reach me **contact.ravinduperera@gmail.com**
 
 
 
