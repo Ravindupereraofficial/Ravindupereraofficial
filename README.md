@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://x.com/ScriptedRav" target="blank"><img src="https://img.shields.io/twitter/follow/ScriptedRav?logo=twitter&style=for-the-badge" alt="ScriptedRav" /></a> </p>
 
-- 🌱 I’m currently learning **java,mysql,html,css,java script,python**
+- 🌱 I’m currently learning **java,mysql,html,css,java script,python,SpringBoot,React**
 
 - 👨‍💻 Currently Studying At **Institute Of Computer Engineering Technology**
 
