@@ -92,6 +92,11 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindupereraofficial&theme=transparent&hide_border=false"></p><br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindupereraofficial&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
 <hr>
+<div align="center">### 🎯 Fun Facts</div>
+- 🎵 Music keeps me focused while coding.
+- 🍕 I love experimenting with different cuisines.
+- 🌍 I aim to make a global impact through technology.
+<hr>
 <h3 align="center">How to reach me - <a href="mailto:ravindurandika2004@gmail.com">contact.ravinduperera@gmail.com</a></h3>
 
 
@@ -119,6 +124,7 @@
 <div align="center">
 Thanks for visiting my profile! 😊🚀 Let's connect and create something amazing! ✨
 </div>
+<hr>
 
 
 
