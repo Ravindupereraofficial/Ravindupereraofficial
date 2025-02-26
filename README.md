@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindu Perera</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full-Stack Development Trainee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravindupereraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Ravindupereraofficial" /> </p>
 
@@ -92,12 +92,12 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindupereraofficial&theme=transparent&hide_border=false"></p><br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindupereraofficial&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
 <hr>
-<div align="center">### 🎯 Fun Facts</div>
-- 🎵 Music keeps me focused while coding.
-- 🍕 I love experimenting with different cuisines.
-- 🌍 I aim to make a global impact through technology.
+<div align="center"> <h3>🎯 Fun Facts</h3></div>
+<h5> 🎵 Music keeps me focused while coding.
+ 🍕 I love experimenting with different cuisines.
+ 🌍 I strive to impact the world through technology.</h5>
 <hr>
-<h3 align="center">How to reach me - <a href="mailto:ravindurandika2004@gmail.com">contact.ravinduperera@gmail.com</a></h3>
+<h3 align="center">How to reach me - <a href="mailto:ravindurandika2004@gmail.com">contact.ravinduperera@gmail.com</a></h3><br>
 
 
 <div align="center">
@@ -122,7 +122,9 @@
 </div>
 </br>
 <div align="center">
-Thanks for visiting my profile! 😊🚀 Let's connect and create something amazing! ✨
+<h4>
+ Thanks for visiting my profile! 😊🚀 Let's connect and create something amazing! ✨
+</h4>
 </div>
 <hr>
 
