@@ -92,7 +92,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindupereraofficial&theme=transparent&hide_border=false"></p><br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindupereraofficial&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
 <hr>
-<h3 align="center">How to reach me - <a href="mailto:ravindurandika2004@gmail.com">ravindurandika2004@gmail.com</a></h3>
+<h3 align="center">How to reach me - <a href="mailto:ravindurandika2004@gmail.com">contact.ravinduperera@gmail.com</a></h3>
 
 
 <div align="center">
