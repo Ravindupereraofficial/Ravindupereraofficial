@@ -116,6 +116,10 @@
   </a>
 </div>
 </br>
+<div align="center">
+Thanks for visiting my profile! 😊🚀 Let's connect and create something amazing! ✨
+</div>
+
 
 
 
