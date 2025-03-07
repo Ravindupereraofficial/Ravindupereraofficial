@@ -16,68 +16,53 @@
  <h3 align="center"> Languages and Tools: </h3> 
   <br>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  width="55" />
 
   <br>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  width="55" />
 
   <br>
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="15" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  width="55" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" width="55" />
+
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" width="55" />
 
 </div>
-
 <br>
 <br>
 <div align="center">
