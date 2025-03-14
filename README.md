@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://x.com/ScriptedRav" target="blank"><img src="https://img.shields.io/twitter/follow/ScriptedRav?logo=twitter&style=for-the-badge" alt="ScriptedRav" /></a> </p>
 
+
+
 - 🌱 I’m currently learning - **java,mysql,html,css,java script,python,SpringBoot,React,Angular,Version Controlling**
 
 - 👨‍💻 Currently Studying At - **Institute Of Computer Engineering Technology**
@@ -12,7 +14,9 @@
 - 📫 How to reach me - **contact.ravinduperera@gmail.com**
 
 <div align="center">
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/Ravinduperera.svg)](https://user-badge.committers.top/sri_lanka/Ravindupereraofficial) 
+  
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/Ravindupereraofficial.svg)](https://user-badge.committers.top/sri_lanka/Ravindupereraofficial) 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
 </div>
 
  <h3 align="center"> Languages and Tools: </h3> 
@@ -83,9 +87,10 @@
 <h5> 🎵 Music keeps me focused while coding.
  🍕 I love experimenting with different cuisines.
  🌍 I strive to impact the world through technology.</h5>
+ 
 <hr>
-<h3 align="center">How to reach me - <a href="mailto:ravindurandika2004@gmail.com">contact.ravinduperera@gmail.com</a></h3><br>
 
+<h3 align="center">How to reach me - <a href="mailto:ravindurandika2004@gmail.com">contact.ravinduperera@gmail.com</a></h3><br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ravindu-perera-/" target="_blank">
