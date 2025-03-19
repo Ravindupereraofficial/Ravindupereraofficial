@@ -13,10 +13,11 @@
 
 - 📫 How to reach me - **contact.ravinduperera@gmail.com**
 
+
+
 <div align="center">
   
   [![committers.top badge](https://user-badge.committers.top/sri_lanka/Ravindupereraofficial.svg)](https://user-badge.committers.top/sri_lanka/Ravindupereraofficial) 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
 </div>
 
  <h3 align="center"> Languages and Tools: </h3> 
