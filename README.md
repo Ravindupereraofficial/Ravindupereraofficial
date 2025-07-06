@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ravindu Perera</h1>
 <h3 align="center">A passionate Full-Stack Development Trainee</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravindupereraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Ravindupereraofficial" /> </p>
+<div align="center">
+  
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/Ravindupereraofficial.svg)](https://user-badge.committers.top/sri_lanka/Ravindupereraofficial) 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravindupereraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Ravindupereraofficial" /> </p>
 
 <p align="left"> <a href="https://x.com/ScriptedRav" target="blank"><img src="https://img.shields.io/twitter/follow/ScriptedRav?logo=twitter&style=for-the-badge" alt="ScriptedRav" /></a> </p>
+
+</div>
+
+
 
 
 
@@ -15,10 +21,6 @@
 
 
 
-<div align="center">
-  
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka/Ravindupereraofficial.svg)](https://user-badge.committers.top/sri_lanka/Ravindupereraofficial) 
-</div>
 
  <h3 align="center"> Languages and Tools: </h3> 
   <br>
