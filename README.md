@@ -13,11 +13,6 @@
 
 
 
-
-
-
-
-
 - 🌱 I’m currently learning - **java,mysql,html,css,java script,python,SpringBoot,React,Angular,Version Controlling**
 
 - 👨‍💻 Currently Studying At - **Institute Of Computer Engineering Technology**
@@ -31,9 +26,6 @@
   <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  width="55" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  width="55" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  width="55" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  width="55" />
