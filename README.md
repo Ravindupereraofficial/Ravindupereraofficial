@@ -13,11 +13,13 @@
 
 
 
-- 🌱 I’m currently learning - **java,mysql,html,css,java script,python,SpringBoot,React,Angular,Version Controlling**
 
-- 👨‍💻 Currently Studying At - **Institute Of Computer Engineering Technology**
+### 🌱 I’m Currently Learning - **Java**, **MySQL**, **Next.js**, **Laravel**, **JavaScript**, **Python**, **Spring Boot**, **React**, **Angular**, **AWS**
 
-- 📫 How to reach me - **contact.ravinduperera@gmail.com**
+### 👨‍💻 Education - Currently studying at the **Institute of Computer Engineering Technology**
+
+### 📫 How to Reach Me - 📧 Email: [contact.ravinduperera@gmail.com](mailto:contact.ravinduperera@gmail.com)
+
 
 
 
@@ -71,22 +73,13 @@
 </div>
 <br>
 <br>
-<div align="center">
-  <a href="https://open.spotify.com/user/31bw5q34q7dkcinlcu66hmc62kba?si=fbac51e2d24845b1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=u947c8dgr8mdyou43kx4tmp2s&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
 
 
 <h4 align="center"># 📊 GitHub Stats:</h4>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindupereraofficial&theme=transparent&hide_border=false"></p><br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindupereraofficial&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
-<hr>
-<div align="center"> <h3>🎯 Fun Facts</h3></div>
-<h5> 🎵 Music keeps me focused while coding.
- 🍕 I love experimenting with different cuisines.
- 🌍 I strive to impact the world through technology.</h5>
+
  
 <hr>
 
