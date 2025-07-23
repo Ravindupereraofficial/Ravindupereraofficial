@@ -3,22 +3,24 @@
 
 <div align="center">
   <a href="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial">
-    <img src="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial.svg" alt="Committers Top Badge" style="height: 18px;" />
+    <img src="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial.svg" alt="Committers Top Badge" style="height: 20px;" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ravindupereraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="height: 18px;" />
+  <img src="https://komarev.com/ghpvc/?username=Ravindupereraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="height: 20px;" />
   <a href="https://x.com/ScriptedRav" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ScriptedRav?logo=twitter&style=for-the-badge" alt="ScriptedRav" style="height: 18px;" />
+    <img src="https://img.shields.io/twitter/follow/ScriptedRav?logo=twitter&style=for-the-badge" alt="ScriptedRav" style="height: 20px;" />
   </a>
 </div>
 
 
 
 
-### 🌱 I’m Currently Learning - **Java**, **MySQL**, **Next.js**, **Laravel**, **JavaScript**, **Python**, **Spring Boot**, **React**, **Angular**, **AWS**
+<div style="font-size: 20px;">
+  <h3>🌱 I’m Currently Learning - <strong>Java</strong>, <strong>MySQL</strong>, <strong>Next.js</strong>, <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>Python</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, <strong>Angular</strong>, <strong>AWS</strong></h3>
 
-### 👨‍💻 Education - Currently studying at the **Institute of Computer Engineering Technology**
+  <h3>👨‍💻 Education - Currently studying at the <strong>Institute of Computer Engineering Technology</strong></h3>
 
-### 📫 How to Reach Me - 📧 Email: [contact.ravinduperera@gmail.com](mailto:contact.ravinduperera@gmail.com)
+  <h3>📫 How to Reach Me - 📧 Email: <a href="mailto:contact.ravinduperera@gmail.com">contact.ravinduperera@gmail.com</a></h3>
+</div>
 
 
 
