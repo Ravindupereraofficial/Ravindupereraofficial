@@ -3,11 +3,11 @@
 
 <div align="center">
   <a href="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial">
-    <img src="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial.svg" alt="Committers Top Badge" style="height: 20px;" />
+    <img src="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial.svg" alt="Committers Top Badge" style="height: 21px;" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ravindupereraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="height: 20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Ravindupereraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="height: 21px;" />
   <a href="https://x.com/ScriptedRav" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ScriptedRav?logo=twitter&style=for-the-badge" alt="ScriptedRav" style="height: 20px;" />
+    <img src="https://img.shields.io/twitter/follow/ScriptedRav?logo=twitter&style=for-the-badge" alt="ScriptedRav" style="height: 21px;" />
   </a>
 </div>
 
