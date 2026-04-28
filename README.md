@@ -3,118 +3,75 @@
 
 <div align="center">
   <a href="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial">
-    <img src="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial.svg" alt="Committers Top Badge" style="height: 21px;" />
+    <img src="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial.svg" alt="Committers Top Badge" height="21" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ravindupereraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="height: 21px;" />
+  <img src="https://komarev.com/ghpvc/?username=Ravindupereraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="21" />
   <a href="https://x.com/ScriptedRav" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ScriptedRav?logo=twitter&style=for-the-badge" alt="ScriptedRav" style="height: 21px;" />
+    <img src="https://img.shields.io/twitter/follow/ScriptedRav?logo=twitter&style=for-the-badge" alt="ScriptedRav" height="21" />
   </a>
 </div>
 
+<br>
 
-
-
-<div style="font-size: 20px;">
-  <h3>🌱 I’m Currently Learning - <strong>Java</strong>, <strong>MySQL</strong>, <strong>Next.js</strong>, <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>Python</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, <strong>Angular</strong>, <strong>AWS</strong></h3>
-
-  <h3>👨‍💻 Education - Currently studying at the <strong>Institute of Computer Engineering Technology</strong></h3>
-
-  <h3>📫 How to Reach Me - 📧 Email: <a href="mailto:contact.ravinduperera@gmail.com">contact.ravinduperera@gmail.com</a></h3>
-</div>
-
-
-
-
-
- <h3 align="center"> Languages and Tools: </h3> 
-  <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  width="55" />
-
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  width="55" />
-
-  <br>
- 
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" width="55" />
-
-  <br>
-
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" width="55" />
-
+  <h3>🌱 I’m Currently Learning: <strong>Java</strong>, <strong>MySQL</strong>, <strong>Next.js</strong>, <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>Python</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, <strong>Angular</strong>, <strong>AWS</strong></h3>
+  <h3>👨‍💻 Education: Currently studying at the <strong>Institute of Computer Engineering Technology</strong></h3>
+  <h3>📫 How to Reach Me: <a href="mailto:contact.ravinduperera@gmail.com">contact.ravinduperera@gmail.com</a></h3>
 </div>
+
 <br>
-<br>
 
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-<h4 align="center"># 📊 GitHub Stats:</h4>
+<div align="center">
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=java,py,php,spring,nodejs,express,js,ts" height="42" alt="languages" />
+  <br><br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindupereraofficial&theme=transparent&hide_border=false"></p><br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindupereraofficial&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,vite,threejs,tensorflow,mongodb" height="42" alt="frontend" />
+  <br><br>
 
- 
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=mysql,aws,firebase,supabase,bootstrap,tailwind,redux,laravel,androidstudio,visualstudio,postman,git" height="42" alt="tools" />
+</div>
+
+<br><br>
+
+<h4 align="center">📊 GitHub Stats</h4>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindupereraofficial&theme=transparent&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindupereraofficial&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
 <hr>
 
-<h3 align="center">How to reach me - <a href="mailto:ravindurandika2004@gmail.com">contact.ravinduperera@gmail.com</a></h3><br>
+<h3 align="center">📫 Connect With Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ravindu-perera-/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin" />
   </a>
-  <a href="https://x.com/ScriptedRav?mx=2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://x.com/ScriptedRav" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" alt="twitter" />
   </a>
-   <a href="https://stackoverflow.com/users/29103616/ravindu-perera" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://discord.com/channels/1326465926434000926/1326465926434000928" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://stackoverflow.com/users/29103616/ravindu-perera" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="30" alt="stackoverflow" />
   </a>
   <a href="https://www.instagram.com/ravindurandika_official/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="instagram" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100075901452270" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="30" alt="facebook" />
   </a>
 </div>
-</br>
+
+<br>
+
 <div align="center">
-<h4>
- Thanks for visiting my profile! 😊🚀 Let's connect and create something amazing! ✨
-</h4>
+  <h4>Thanks for visiting my profile! 😊🚀 Let's connect and create something amazing! ✨</h4>
 </div>
-<hr>
-
-
-
-
