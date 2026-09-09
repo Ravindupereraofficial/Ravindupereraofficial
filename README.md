@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full-Stack Development Trainee</h3>
 
 <div align="center">
-  <a href="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial">
+  <!-- <a href="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial">
     <img src="https://user-badge.committers.top/sri_lanka/Ravindupereraofficial.svg" alt="Committers Top Badge" height="21" />
-  </a>
+  </a> -->
   <img src="https://komarev.com/ghpvc/?username=Ravindupereraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="21" />
   <a href="https://x.com/ScriptedRav" target="_blank">
     <img src="https://img.shields.io/twitter/follow/ScriptedRav?logo=twitter&style=for-the-badge" alt="ScriptedRav" height="21" />
